@@ -1,5 +1,5 @@
 const Primus = require('primus');
-const Engine = require('ECSEngine/src/Engine');
+const Engine = require('ECSEngine/Engine');
 const Systems = require('./systems');
 
 
